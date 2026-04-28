@@ -9,8 +9,13 @@
 ---
 ### Интсрукция запуска 
 1 Открыть проект на пк 
+
 2 cd TaskBoardApi
+
 3 dotnet run
+
 4 cd ..
+
 5 cd frontend 
+
 6 Запустить index.html через клавишу f5 
